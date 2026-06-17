@@ -45,3 +45,8 @@ void device_exit(void)
     device_release(ctx);
     /* ctx is dangling here */
     device_callback_trigger();  /* UAF: triggers on freed memory */
+}
+   
+
+
+
