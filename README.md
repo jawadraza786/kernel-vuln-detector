@@ -175,5 +175,4 @@ This work was part of a broader investigation into kernel and IoT security durin
 ---
 
 ## Repository Note
-
-This repository documents research I conducted at UT Arlington and extends it into a runnable prototype. The original lab work used a proprietary dataset and was not open-sourced. The sample files here are independently written to demonstrate the same vulnerability classes studied in the original research.
+Built based on research conducted at the UT Arlington Security Lab (2023–2024).
